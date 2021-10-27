@@ -100,7 +100,7 @@ UNION ALL
 select Customerid, freight,'C' from orders where Freight > 100
 
 --weitere Idee.. nur die B Kunden
---UNterabfragen
+--Unterabfragen
 
 select * from 
 (
