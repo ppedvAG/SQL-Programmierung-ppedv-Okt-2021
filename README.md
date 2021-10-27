@@ -14,6 +14,17 @@
 * logischer Fluss
 * UNION ALL
 * SELF Join ..und andere Joins
+* where Wildcards
+
+# 4. TSQL Kommandos
+* Except, intersect
+* Group by 
+* Rollup Cube
+
+# 5. temp Tabelle
+
+
+
 
 # 4. Indizes
 * --> Locks; Geschwindigkeit; bad procedures
