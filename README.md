@@ -11,6 +11,9 @@
 * Seiten
 
 # 3. TSQL Basics
+* logischer Fluss
+* UNION ALL
+* SELF Join ..und andere Joins
 
 # 4. Indizes
 * --> Locks; Geschwindigkeit; bad procedures
