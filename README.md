@@ -35,15 +35,27 @@
 * Try Catch, 
 * Ebenen , Fehlerausgabe
 
-# 8. Konstruktionen
+# 9. Konstruktionen
 * IF
 * WHILE BREAK CONTINUE
 * Block: BEGIN END
 
 
+# 10: Indizes
+* Gr IX und N GR IX
+* Einfluss auf Sperren und Performance
+* Plan verstehen
+* Query Store 
+*
+
+# 11 : Bad Code
+* Prozedurenproblem
+* bad functions
+
 
 # 4. Indizes
 * --> Locks; Geschwindigkeit; bad procedures
+
 
 
 # 5. CTE- Rekursion, Unterabfragen zu vermeiden
