@@ -23,6 +23,22 @@
 
 # 5. temp Tabelle
 
+# 6. Prozeduren
+* Parameter
+* OUTPUT
+
+# 7. Variablen
+* Lebensdauer
+* menuell zuweise / per Abfrage zuweisen
+
+# 8. Errorhandling
+* Try Catch, 
+* Ebenen , Fehlerausgabe
+
+# 8. Konstruktionen
+* IF
+* WHILE BREAK CONTINUE
+* Block: BEGIN END
 
 
 
