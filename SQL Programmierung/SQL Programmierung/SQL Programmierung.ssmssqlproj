@@ -37,6 +37,48 @@
           <AssociatedConnUserName />
           <FullPath>03_UNION.sql</FullPath>
         </FileNode>
+        <FileNode Name="04_Intersect_Except.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04_Intersect_Except.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05_Wildcards.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05_Wildcards.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_Group by  bei sehr großer Tabvelle mit tempTabelle.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06_Group by  bei sehr großer Tabvelle mit tempTabelle.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_Group by.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_Group by.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_temp-Tabellen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07_temp-Tabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_VIews.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08_VIews.sql</FullPath>
+        </FileNode>
+        <FileNode Name="X_InstNwnd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>X_InstNwnd.sql</FullPath>
+        </FileNode>
         <FileNode Name="XML_Abrufen von XML-Daten.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>

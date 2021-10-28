@@ -87,7 +87,8 @@ select * from slf
 
 create view vdemo
 as
-select * from slf
+select * from slf -- * macht nicht das, was wir denken 
+	--merkt  sich lediglich die Namen der Spalten
 
 select * from vdemo --alle Spalten ID STadt Land
 
@@ -115,3 +116,10 @@ select id, stadt, fluss from dbo.slf
 --cool
 
 alter table slf drop column Stadt --das geht nicht mehr
+
+--Was ist schneller, wenn der seleb Code ausgefürht wird
+
+--gleich schnell!!
+select * from sicht
+
+select * from tabelle
