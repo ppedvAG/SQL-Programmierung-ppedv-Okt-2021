@@ -73,6 +73,48 @@
           <AssociatedConnUserName />
           <FullPath>08_VIews.sql</FullPath>
         </FileNode>
+        <FileNode Name="09_Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10_Variablen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10_Variablen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11_Errrohandling.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11_Errrohandling.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12_KOnstruktionen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12_KOnstruktionen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13_Trnsactions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13_Trnsactions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15_BessererCode.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15_BessererCode.sql</FullPath>
+        </FileNode>
         <FileNode Name="X_InstNwnd.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
@@ -96,6 +138,12 @@
           <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>XML_vonDatei.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_Tag2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_Tag2.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
