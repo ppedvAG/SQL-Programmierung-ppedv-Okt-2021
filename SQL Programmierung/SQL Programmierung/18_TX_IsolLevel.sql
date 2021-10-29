@@ -107,3 +107,14 @@ rollback
 --bis die Ändernung bzw TX abegschlossen wird..
 
 
+
+set transaction isolation level read committed
+select * from Customers where CustomerID = 'ALFKI'--  dauert...
+
+set transaction isolation level read uncommitted
+select * from Customers where CustomerID = 'ALFKI'
+
+--bekommt den aktuelle Wert, auch wenn noch nicht committed
+
+--
+

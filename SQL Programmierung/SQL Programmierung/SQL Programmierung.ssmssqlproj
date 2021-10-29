@@ -115,6 +115,36 @@
           <AssociatedConnUserName />
           <FullPath>15_BessererCode.sql</FullPath>
         </FileNode>
+        <FileNode Name="16_Partitionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17_Kompression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17_Kompression.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_TX_IsolLevel.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18_TX_IsolLevel.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19_CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19_CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20_Window_Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20_Window_Functions.sql</FullPath>
+        </FileNode>
         <FileNode Name="X_InstNwnd.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
@@ -144,6 +174,12 @@
           <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Z_Tag2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_Tag3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_Tag3.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
