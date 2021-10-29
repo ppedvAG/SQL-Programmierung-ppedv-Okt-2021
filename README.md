@@ -52,23 +52,16 @@
 * Prozedurenproblem
 * bad functions
 
+# 12. Salamitaktik
+* Partitionierte Sicht
+* Partitionierung
+* TX Islation Level
+* Zeilenversionierung
 
-# 4. Indizes
-* --> Locks; Geschwindigkeit; bad procedures
 
+# 13. CTE- Rekursion, Unterabfragen zu vermeiden
 
+# 14. Window functions
 
-# 5. CTE- Rekursion, Unterabfragen zu vermeiden
+# 15. Trigger
 
-# 6. Locks Sperren beeinflussen
-
-# 7. Window functions
-
-# 8. Partitionierung
-
-# 9. Trigger
-
-# 10. UNION , EXCEPT, INTERSECT
-
-# 11. GROUP BY AGG with cube rollup Gouping_id, Grouping_Sets
- 
