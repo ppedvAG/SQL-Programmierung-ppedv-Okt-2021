@@ -63,5 +63,4 @@
 
 # 14. Window functions
 
-# 15. Trigger
 
